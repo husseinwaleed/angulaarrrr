@@ -1,0 +1,252 @@
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\ApplicationInsights.config
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\csc.exe
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\vbc.exe
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\angularwebb.dll.config
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\angularwebb.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\angularwebb.pdb
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Antlr3.Runtime.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\EntityFramework.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\EntityFramework.SqlServer.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.Web.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Newtonsoft.Json.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Owin.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Helpers.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Mvc.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Optimization.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Razor.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\WebGrease.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.Web.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Helpers.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Mvc.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Optimization.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.Razor.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Antlr3.Runtime.pdb
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Newtonsoft.Json.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\EntityFramework.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\EntityFramework.SqlServer.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\obj\Debug\angularwebb.dll
+c:\users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\obj\Debug\angularwebb.pdb
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\angularwebb\angularwebb\bin\Content\app\Details.html
+C:\Users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\bin\Content\app\Edit.html
+C:\Users\deltagare\documents\visual studio 2015\Projects\angularwebb\angularwebb\obj\Debug\angularwebb.csprojResolveAssemblyReference.cache
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\ApplicationInsights.config
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\csc.exe
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\vbc.exe
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Content\app\Edit.html
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Content\app\Details.html
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.dll.config
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.pdb
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Antlr3.Runtime.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.SqlServer.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Web.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Newtonsoft.Json.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Owin.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Helpers.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Mvc.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Optimization.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Razor.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\WebGrease.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Web.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Helpers.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Mvc.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Optimization.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Razor.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Antlr3.Runtime.pdb
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Newtonsoft.Json.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.SqlServer.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.csprojResolveAssemblyReference.cache
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.dll
+C:\Users\hussen\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.pdb
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\csc.exe
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\vbc.exe
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\ApplicationInsights.config
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Content\app\Edit.html
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Content\app\Details.html
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.dll.config
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\angularwebb.pdb
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Antlr3.Runtime.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.SqlServer.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Web.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Newtonsoft.Json.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Owin.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Helpers.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Mvc.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Optimization.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Razor.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\WebGrease.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.Web.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Helpers.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Mvc.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Optimization.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.Razor.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\System.Web.WebPages.Razor.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Antlr3.Runtime.pdb
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Newtonsoft.Json.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\EntityFramework.SqlServer.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.dll
+C:\Users\deltagare\OneDrive\Dokument\husseins folder\angularwebb\angularwebb\obj\Debug\angularwebb.pdb
